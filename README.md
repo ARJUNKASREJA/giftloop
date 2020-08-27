@@ -2,6 +2,8 @@
 AK Gamer
 
 
+
+
 ## How to Install
 
 Open the terminal and type following commands!!!
@@ -12,7 +14,7 @@ Open the terminal and type following commands!!!
 
  ```pkg install git```
 
- ```git clone https://github.com/Hunter11821/giftloop```
+ ```git clone https://github.com/ARJUNKASREJA/giftloop.git```
 
  ```ls```
 
@@ -30,17 +32,6 @@ Open the terminal and type following commands!!!
 
 After This Commands Enter Your Details And Enjoy馃槉馃槉
 
-#HOW TO USE VIDEO
-
-ttps://youtu.be/vuztwnQfndA
-
-#YOUTUBE CHANNEL
-
-Link :- https://www.youtube.com/channel/UCndBK_Y6QHxLXZ2XLrf4zoQ
-
-#TELEGRAM CHANNEL
-
-Link :- https://telegram.dog/Hunter11821
 
 #Links
 
@@ -52,6 +43,56 @@ Termux app :- https://play.google.com/store/apps/details?id=com.termux
 
 ES explore link :- https://es-file-explorer.en.uptodown.com/android
 
-#CONTACT ME
 
-Any quary contact me on telegram :- https://telegram.dog/official_hunter
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
